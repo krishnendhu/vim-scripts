@@ -1,0 +1,12 @@
+[submodule "bundle/delmitmate"]
+	path = bundle/delmitmate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = git://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/NERDTree"]
+	path = bundle/NERDTree
+	url = git://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/cecscope"]
+	path = bundle/cecscope
+	url = git://github.com/vim-scripts/cecscope.git
